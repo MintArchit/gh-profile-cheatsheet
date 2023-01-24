@@ -6,7 +6,7 @@ Cheatsheet for Github profiles README.md
 
 # Links
 
-\[\]\(\)
+%%\[\]\(\)
 
 
 # Badges
