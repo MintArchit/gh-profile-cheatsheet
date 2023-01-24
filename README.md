@@ -97,7 +97,7 @@ target="_blank"
  
 **! Dont stretch badges by setting width & height (doesnt look right) !**
 
-how to modify the [URL](#Uniform-Rescource Identifier) to your desire:
+how to modify the [URL](Uniform Rescource Identifier) to your desire:
 
 https: //img.shields.io/badge/ leftText - rightText - rightBG 
 ?style       = btnDesign
