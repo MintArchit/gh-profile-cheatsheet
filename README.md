@@ -1,5 +1,7 @@
 Cheatsheet for Github profiles README.md
 
+*** Notice this is Work in Progress***
+
 **what you can Integrate:**
 - Markdown
 - Badges
@@ -58,16 +60,18 @@ Cheatsheet for Github profiles README.md
 1. Have an **empty line** after the `</summary>` tag or markdown/code blocks will not render.
 1. Have an **empty line** after each `</details>` tag if you have multiple collapsible sections.
 
+[Author](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
+
 # Links
 
 # Html
 
 tags that work
 ```html
-	<a>
-	<img>
-	<h1>
-	<img>
+<a>
+<img>
+<h1>
+<img>
 ```
 
 
@@ -85,7 +89,7 @@ attributes that don't work
  
 **! Dont stretch badges by setting width & height (doesnt look right) !**
 
-how to modify the [URL](Uniform-Rescource Identifier) to your desire:
+how to modify the [URL](#Uniform-Rescource Identifier) to your desire:
 
 https: //img.shields.io/badge/ leftText - rightText - rightBG 
 ?style       = btnDesign
@@ -106,6 +110,6 @@ https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoCo
 
 <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />
 
-
 # Colors
+
 [Colors](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file#answer-73613791)
