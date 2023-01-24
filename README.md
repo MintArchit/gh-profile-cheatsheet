@@ -1,6 +1,6 @@
 Cheatsheet for Github profiles README.md
 
-*** Notice this is Work in Progress***
+***Notice this is Work in Progress***
 
 **what you can Integrate:**
 - Markdown
