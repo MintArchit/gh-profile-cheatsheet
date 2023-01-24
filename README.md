@@ -64,12 +64,14 @@
 1. Have an **empty line** after the `</summary>` tag or markdown/code blocks will not render.
 1. Have an **empty line** after each `</details>` tag if you have multiple collapsible sections.
 
-[Autzahor](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
+[Author](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 # Links
 
 \[Description\]\(URL/Link\)
+
 e.g.
+
 \[Youtube\]\(https://youtube.com\) rendered: [Youtube](https://youtube.com)
 
 # Html
@@ -95,9 +97,9 @@ target="_blank"
 
 # Badges
  
-**! Dont stretch badges by setting width & height (doesnt look right) !**
+Badges are via html integrated adjustable Image Links(URLs) to an Online Third-Party Image Generator
 
-how to modify the [URL](Uniform Rescource Identifier) to your desire:
+URL Syntax/Structure:
 
 https: //img.shields.io/badge/ leftText - rightText - rightBG 
 ?style       = btnDesign
@@ -117,6 +119,8 @@ https://img.shields.io/static/v1?message=html&logo=css3&labelColor=5c5c5c&color=
 https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=red
 
 <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />
+
+**! Dont stretch badges by setting width & height (doesnt look right) !**
 
 # Colors
 
