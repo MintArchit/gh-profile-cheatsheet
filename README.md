@@ -1,8 +1,8 @@
 # Cheatsheet for Github profiles README.md
 
-***Notice this is Work in Progress***
+***Disclaimer: Notice this is Work in Progress and might contain errors***
 
-**what you can Integrate:**
+**What you can Integrate:**
 - Markdown
 - Badges
 - Collapsible Content
@@ -67,7 +67,6 @@
 \[Description\]\(URL/Link\)
 e.g.
 \[Youtube\]\(https://youtube.com\) rendered: [Youtube](https://youtube.com)
-
 
 # Html
 
