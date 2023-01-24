@@ -60,9 +60,14 @@ Cheatsheet for Github profiles README.md
 1. Have an **empty line** after the `</summary>` tag or markdown/code blocks will not render.
 1. Have an **empty line** after each `</details>` tag if you have multiple collapsible sections.
 
-[Author](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
+[Autzahor](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 # Links
+
+\[Description\]\(URL/Link\)
+e.g.
+\[Youtube\]\(https://youtube.com\) rendered: [Youtube](https://youtube.com)
+
 
 # Html
 
@@ -82,7 +87,7 @@ tags that don't work
 
 attributes that don't work
 ```html
-	target="_blank"
+target="_blank"
 ```
 
 # Badges
