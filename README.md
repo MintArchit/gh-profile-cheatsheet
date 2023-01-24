@@ -104,7 +104,7 @@ target="_blank"
 
 # Badges
  
-Badges are via html integrated adjustable Image Links(URLs) to an Online Third-Party Image Generator
+Badges are adjustable Image Links(URLs) to an Online Third-Party Image Generator
 
 URL Syntax/Structure:
 
