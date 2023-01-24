@@ -18,7 +18,8 @@
 
 - [Official GH Wiki about Writing&Format](https://docs.github.com/en/get-started/writing-on-github)
 - [MarkDown Docs](https://www.markdownguide.org/)
- 
+- [Awesome Github Profiles](https://zzetao.github.io/awesome-github-profile/) \([projects github repo](https://github.com/abhisheknaiidu/awesome-github-profile-readme)\)
+
 # Contents
 
 # Collapse
