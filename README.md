@@ -1,12 +1,85 @@
 Cheatsheet for Github profiles README.md
 
-**what you can do:**
+**what you can Integrate:**
+- Markdown
+- Badges
+- Collapse Content
+- Html(limited)
+- Images
+- SVG
+- Gifs
+- Define Terminal Cmds
+- Preview sytax highlighted Code
+- Latex
+ 
 # Contents
+
+# Collapse
+
+## How to
+````md
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+````
+
+## Example
+<details>
+    <summary>Click me</summary>
+
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+     
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+## Rules
+1. Have an **empty line** after the `</summary>` tag or markdown/code blocks will not render.
+1. Have an **empty line** after each `</details>` tag if you have multiple collapsible sections.
 
 # Links
 
-%%\[\]\(\)
+# Html
 
+tags that work
+```html
+	<a>
+	<img>
+	<h1>
+	<img>
+```
+
+
+tags that don't work
+```html
+	
+```
+
+attributes that don't work
+```html
+	target="_blank"
+```
 
 # Badges
  
