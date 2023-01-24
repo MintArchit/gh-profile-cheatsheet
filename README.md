@@ -1,6 +1,6 @@
 # Cheatsheet for Github profiles README.md
 
-***Disclaimer: Notice this is Work in Progress and might contain errors***
+***Disclaimer: Notice this is Work in Progress and might contain errors!***
 
 **What you can Integrate:**
 - Markdown
@@ -13,6 +13,10 @@
 - Define Terminal Cmds
 - Preview sytax highlighted Code
 - Latex
+ 
+# Rescources
+
+- [Official GH Wiki about Writing&Format](https://docs.github.com/en/get-started/writing-on-github)
  
 # Contents
 
@@ -116,4 +120,5 @@ https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoCo
 
 # Colors
 
-[Colors](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file#answer-73613791)
+- [Discussion StackExchange](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file#answer-73613791)
+- [Latex Colors](https://en.wikibooks.org/wiki/LaTeX/Colors)
