@@ -68,11 +68,16 @@
 
 # Links
 
+Via MarkDown
+
 \[Description\]\(URL/Link\)
 
 e.g.
 
 \[Youtube\]\(https://youtube.com\) rendered: [Youtube](https://youtube.com)
+
+Via HTML
+<a href="https://youtube.com">Youtube</a>
 
 # Html
 
