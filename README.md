@@ -1,7 +1,6 @@
 Cheatsheet for Github profiles README.md
 
 **what you can do:**
-
 # Contents
 
 # Links
@@ -31,6 +30,9 @@ https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoCo
 https://img.shields.io/static/v1?message=html&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic
 
 https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=red
+
+<img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />
+
 
 # Colors
 [Colors](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file#answer-73613791)
