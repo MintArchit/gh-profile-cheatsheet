@@ -5,7 +5,7 @@
 **what you can Integrate:**
 - Markdown
 - Badges
-- Collapse Content
+- Collapsible Content
 - Html(limited)
 - Images
 - SVG
